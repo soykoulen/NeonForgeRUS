@@ -44,7 +44,7 @@ NeonForge - это учебный веб-проект дизайн-студии,
    * Apache
    * MySQL
 
-4. Импортировать базу данных (sql/mythology.sql) через phpMyAdmin( http://localhost/phpmyadmin/index.php )
+4. Импортировать базу данных (sql/database.sql) через phpMyAdmin( http://localhost/phpmyadmin/index.php )
 
 5. Открыть сайт:
 
